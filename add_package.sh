@@ -1,0 +1,2 @@
+fvm flutter pub add flutter_bloc equatable file_picker permission_handler flutter_native_splash cached_network_image intl freezed freezed_annotation dio hive_flutter hive hive_generator timeago http_parser 
+fvm flutter pub add dev:retrofit_generator dev:json_serializable freezed freezed_annotation dev:build_runner injectable dev:injectable_generator get_it easy_localization
